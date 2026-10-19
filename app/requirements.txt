@@ -1,0 +1,15 @@
+numpy
+pandas 
+joblib
+matplotlib
+seaborn
+pillow
+streamlit
+tensorflow
+opencv-python
+scikit-learn
+jupyter 
+keras-tuner
+apache-airflow
+imbalanced-learn
+mlflow

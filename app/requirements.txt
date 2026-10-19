@@ -13,3 +13,4 @@ keras-tuner
 apache-airflow
 imbalanced-learn
 mlflow
+kagglehub

@@ -6,6 +6,7 @@ seaborn
 pillow
 streamlit
 tensorflow
+tensorflow-hub
 opencv-python
 scikit-learn
 jupyter 

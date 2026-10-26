@@ -15,5 +15,4 @@ apache-airflow
 imbalanced-learn
 mlflow
 kagglehub
-random
-shutil
+vastai

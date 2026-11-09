@@ -16,3 +16,4 @@ imbalanced-learn
 mlflow
 kagglehub
 vastai
+ultralytics
